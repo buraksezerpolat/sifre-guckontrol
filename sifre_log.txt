@@ -1,0 +1,22 @@
+[Tarih/Saat: 2025-05-17 19:11:35]
+Salt (hex): da684d9e842120cd201aa0110c0fd6f0
+SHA-256 Hash (Salt + Şifre): e9b58c084a92abf5dd5d24309348f5abec54a6278cc54c3b3caef721fd1a182e
+Şifre Gücü: Orta
+Kriterler:
+ - En az 8 karakter: ✓
+ - Büyük harf: ✗
+ - Küçük harf: ✓
+ - Sayı: ✓
+ - Özel karakter: ✗
+------
+[Tarih/Saat: 2025-05-17 19:11:53]
+Salt (hex): f5108c9cc2741761878a419e0899555d
+SHA-256 Hash (Salt + Şifre): 929939c1ef9f05339b3293ef02ce6d1c62f5697bc86c1bf158d8e9bf622cc89d
+Şifre Gücü: Güçlü
+Kriterler:
+ - En az 8 karakter: ✓
+ - Büyük harf: ✓
+ - Küçük harf: ✓
+ - Sayı: ✓
+ - Özel karakter: ✓
+------
